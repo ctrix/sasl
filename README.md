@@ -1,7 +1,7 @@
 # SASL
 
-[![Issue Tracker][badge]](https://github.com/mellium/xmpp/issues)
-[![GoDoc](https://godoc.org/mellium.im/sasl?status.svg)](https://godoc.org/mellium.im/sasl)
+[![Issue Tracker][badge]](https://github.com/ctrix/sasl/issues)
+[![GoDoc](https://godoc.org/mellium.im/sasl?status.svg)](https://github.com/ctrix/sasl)
 [![License](https://img.shields.io/badge/license-FreeBSD-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/samwhited)

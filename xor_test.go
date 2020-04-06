@@ -13,7 +13,7 @@ import (
 	"io"
 	"testing"
 
-	"mellium.im/sasl"
+	"github.com/ctrix/sasl"
 )
 
 func TestXOR(t *testing.T) {
